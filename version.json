@@ -2,7 +2,7 @@
   "version_code": 3,
   "version_name": "2.1.1",
   "min_supported_code": 2,
-  "is_force_update": false,
+  "is_force_update": true,
   "apk_url": "https://github.com/YOUR_GITHUB_USERNAME/vyapar-bandhan-updates/releases/download/v2.2.0/vyapar_bandhan_v2.2.0.apk",
   "release_notes": "🎉 What's New:\n\n• Improved performance\n• Bug fixes in subscription renewal\n• New payment UI\n• Faster checkout experience",
   "published_at": "2026-09-29"
