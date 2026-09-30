@@ -2,7 +2,7 @@
   "version_code": 3,
   "version_name": "2.2.0",
   "apk_url": "https://github.com/hiteshchoudhary2610/Vyapar-Bandhan-Update/releases/download/v2.3.1/app-release.apk",
-  "force_update": true,
+  "force_update": false,
   "release_notes": "• In-app update system added\n• Bug fixes and stability improvements\n• Faster app startup\n• Performance improvements",
   "apk_size_bytes": 45231040
 }
