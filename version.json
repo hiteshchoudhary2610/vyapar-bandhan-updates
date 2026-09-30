@@ -1,6 +1,6 @@
 {
-  "version_code": 3,
-  "version_name": "2.1.2",
+  "version_code": 5,
+  "version_name": "2.1.2-TEST",
   "apk_url": "https://github.com/hiteshchoudhary2610/vyapar-bandhan-updates/releases/download/v2.1.2/app-release.apk",
   "force_update": false,
   "release_notes": "• In-app update system added\n• Bug fixes and stability improvements\n• Faster app startup",
